@@ -1,0 +1,11 @@
+file_format: "1"
+id: gcnr75
+name: gcnr75
+type: shield
+url: 
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - gcnr75_left
+  - gcnr75_right
