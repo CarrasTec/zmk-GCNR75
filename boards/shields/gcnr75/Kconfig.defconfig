@@ -13,6 +13,5 @@ if SHIELD_GCNR75_LEFT || SHIELD_GCNR75_RIGHT
 
 config ZMK_SPLIT
     default y
-config ZMK_STUDIO
-    default y
+    
 endif
