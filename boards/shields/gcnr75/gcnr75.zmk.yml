@@ -3,7 +3,7 @@ id: gcnr75
 name: gcnr75
 type: shield
 url: 
-requires: [pro_micro]
+requires: [nice_nano_v2]
 features:
   - keys
   - studio
