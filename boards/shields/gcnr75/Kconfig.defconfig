@@ -18,3 +18,13 @@ config ZMK_SPLIT
     default y
 
 endif
+
+if SHIELD_GCNR75_RIGHT
+
+config EC11
+    default y
+
+config EC11_TRIGGER_GLOBAL_THREAD
+    default y
+
+endif
